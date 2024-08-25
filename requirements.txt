@@ -1,6 +1,5 @@
-streamlit
-openai
 datetime
 os
-dotenv
-joblib
+streamlit==1.37.1
+openai==1.42.0
+DateTime==5.5
