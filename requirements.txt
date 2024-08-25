@@ -1,0 +1,6 @@
+streamlit
+openai
+datetime
+os
+dotenv
+joblib
