@@ -1,2 +1,2 @@
 # fortune teller
-poc for fortune teller based recommendation system
+dummy repo for testing OpenAI Apis and poc for fortune teller based recommendation system
